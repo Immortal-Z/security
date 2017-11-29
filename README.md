@@ -1,6 +1,6 @@
-# security
+# Encryption
 
-This security kit provides the functionality about data encryption and data integrity check.
+This repository provides the functionality about data encryption.
 
 ## Authors
 
